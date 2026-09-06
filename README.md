@@ -7,7 +7,7 @@
 > *Below is the external view of the robotic complex in operation.*
 
 <p align="center">
-  <img src="images/robot.jpg" alt="RoboShawarma Robot" width="600"/>
+  <img src="images/robot.jpeg" alt="RoboShawarma Robot" width="600"/>
   <br>
   <em>Fig. 1 — Full-cycle robotic shawarma preparation complex</em>
 </p>
@@ -85,8 +85,8 @@ The project is currently in the industrial prototype phase, with ongoing testing
 
 For partnership and investment inquiries:
 
-- 📧 Email: your-email@example.com  
-- 🌐 Website: [your-project.com](https://your-project.com)
+- 📧 Email: lilichkag.1979@gmail.com
+- 🌐 Website: [your-project.com](https://your-project.com) in process
 
 ---
 
@@ -105,7 +105,7 @@ For partnership and investment inquiries:
 > *Ниже представлен внешний вид роботизированного комплекса в рабочем состоянии.*
 
 <p align="center">
-  <img src="images/robot.jpg" alt="Робот-шаурмист" width="600"/>
+  <img src="images/robot.jpeg" alt="Робот-шаурмист" width="600"/>
   <br>
   <em>Рис. 1 — Роботизированный комплекс полного цикла приготовления шаурмы</em>
 </p>
@@ -183,8 +183,8 @@ For partnership and investment inquiries:
 
 По вопросам сотрудничества и инвестиций:
 
-- 📧 Email: your-email@example.com  
-- 🌐 Сайт: [your-project.com](https://your-project.com)
+- 📧 Email: lilichkag.1979@gmail.com 
+- 🌐 Сайт: [your-project.com](https://your-project.com) в процессе
 
 ---
 
